@@ -12,7 +12,7 @@
 - 매주 6개의 아이템을 진도로 나갑니다. 
 - 매주 일요일까지 2개의 아이템을 맡아서 각자 발표 준비를 합니다.
 - 발표 자료는 최소 월요일 오전 9:00 Pull Request 해주셔야 합니다.
-- commit messeage
+- commit message
   - [2024:mm:dd] 이름 chapter 아이템 번호 commit
   - [2024:10:19] 배제우 02장 아이템1 commit
 - 발표가 끝나면 Q&A를 진행합니다. 

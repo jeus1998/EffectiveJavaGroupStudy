@@ -31,5 +31,6 @@
 ## 참여자 
 - 배제우: jeus1998
   - [깃허브 링크](https://github.com/jeus1998)
-
+- 이건희: hegunhee
+  - [깃허브 링크](https://github.com/hegunhee)
 

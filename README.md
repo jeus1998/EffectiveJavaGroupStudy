@@ -33,4 +33,7 @@
   - [깃허브 링크](https://github.com/jeus1998)
 - 이건희: hegunhee
   - [깃허브 링크](https://github.com/hegunhee)
+- 최영은: Choi-Young-Eun
+  - [깃허브 링크](https://github.com/Choi-Young-Eun) 
+  
 

@@ -10,7 +10,7 @@
 - [아이템6: 불필요한 객체 생성을 피하라(이건희)](https://github.com/jeus1998/EffectiveJavaGroupStudy/blob/main/02_%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%ED%8C%8C%EA%B4%B4/%EC%95%84%EC%9D%B4%ED%85%9C6%20%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EC%9D%84%20%ED%94%BC%ED%95%98%EB%9D%BC.md)
 - [아이템7: 다 쓴 객체 참조를 해제하라(배제우)](https://github.com/jeus1998/EffectiveJavaGroupStudy/blob/main/02_%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%ED%8C%8C%EA%B4%B4/%EC%95%84%EC%9D%B4%ED%85%9C7%20%EB%8B%A4%20%EC%93%B4%20%EA%B0%9D%EC%B2%B4%20%EC%B0%B8%EC%A1%B0%EB%A5%BC%20%ED%95%B4%EC%A0%9C%ED%95%98%EB%9D%BC.md)
 - [아이템8: finalizer와 cleaner 사용을 피하라(배제우)](https://github.com/jeus1998/EffectiveJavaGroupStudy/blob/main/02_%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%ED%8C%8C%EA%B4%B4/%EC%95%84%EC%9D%B4%ED%85%9C8%20finalizer%EC%99%80%20cleaner%20%EC%82%AC%EC%9A%A9%EC%9D%84%20%ED%94%BC%ED%95%98%EB%9D%BC.md)
-- [아이템9: try-finally 보다는 try-with-resources를 사용하라](https://github.com/jeus1998/EffectiveJavaGroupStudy/blob/main/02_%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%ED%8C%8C%EA%B4%B4/%EC%95%84%EC%9D%B4%ED%85%9C9%20try-finally%20%EB%B3%B4%EB%8B%A4%EB%8A%94%20try-with-resources%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
+- [아이템9: try-finally 보다는 try-with-resources를 사용하라(배제우)](https://github.com/jeus1998/EffectiveJavaGroupStudy/blob/main/02_%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%ED%8C%8C%EA%B4%B4/%EC%95%84%EC%9D%B4%ED%85%9C9%20try-finally%20%EB%B3%B4%EB%8B%A4%EB%8A%94%20try-with-resources%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 
 
 ## 진행 방식 
